@@ -1,14 +1,13 @@
 ### Hello welcome to my github profile 👋
 ### You can call me Paulo Roberto, or Betinho.
 
-- 🔭 I’m currently working on Wiser Educação as a Mobile Developer.
-- 🌱 I’m currently learning Swift and React Native
+- 🔭 I’m currently working on RecargaPay as a Developer.
+- 🌱 I’m currently learning Swift, Android, Data Science and Marketing.
 - 💬 Ask me about anything.
 - 📫 How to reach me:
   - mail: paulo.pereira.dev@gmail.com
-  - phone: +55 024 999930910
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love music, and play guitar.
+- ⚡ Fun fact: I was a photographer when I was a teenager, I had a Nikon D90.
 
 ### Techs and Knolegments
 
